@@ -5,11 +5,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6625138e-867b-4d47-864e-9e8b29b84140" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calcu.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejemplo/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/hojas/1.hoja1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/hojas/hoja2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/hojas/holaMundo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/hojas/saludo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/imagenes/back.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/taller/Taller_Pérez_José.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/taller/people.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiempo.js" beforeDir="false" afterPath="$PROJECT_DIR$/tiempo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0-a.txt" beforeDir="false" afterPath="$PROJECT_DIR$/clases/0-a.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0-v.txt" beforeDir="false" afterPath="$PROJECT_DIR$/clases/0-v.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-b.txt" beforeDir="false" afterPath="$PROJECT_DIR$/clases/1-b.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-w.txt" beforeDir="false" afterPath="$PROJECT_DIR$/clases/1-w.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2-c.txt" beforeDir="false" afterPath="$PROJECT_DIR$/clases/2-c.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2-x.txt" beforeDir="false" afterPath="$PROJECT_DIR$/clases/2-x.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3-d.txt" beforeDir="false" afterPath="$PROJECT_DIR$/clases/3-d.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3-y.txt" beforeDir="false" afterPath="$PROJECT_DIR$/clases/3-y.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/clases/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/archivo" beforeDir="false" afterPath="$PROJECT_DIR$/clases/archivo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/archivo.txt" beforeDir="false" afterPath="$PROJECT_DIR$/clases/archivo.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/arreglos.js" beforeDir="false" afterPath="$PROJECT_DIR$/clases/arreglos.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calcu.js" beforeDir="false" afterPath="$PROJECT_DIR$/clases/calcu.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/callback.js" beforeDir="false" afterPath="$PROJECT_DIR$/clases/callback.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/callback2.js" beforeDir="false" afterPath="$PROJECT_DIR$/clases/callback2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/declaraciones.js" beforeDir="false" afterPath="$PROJECT_DIR$/clases/declaraciones.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/funciones.js" beforeDir="false" afterPath="$PROJECT_DIR$/clases/funciones.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/promesas.js" beforeDir="false" afterPath="$PROJECT_DIR$/clases/promesas.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tiempo.js" beforeDir="false" afterPath="$PROJECT_DIR$/clases/tiempo.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -20,67 +42,32 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="web" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/callback2.js">
+        <entry file="file://$PROJECT_DIR$/server/hojas/1.hoja1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1275">
-              <caret line="75" column="52" selection-start-line="75" selection-start-column="52" selection-end-line="75" selection-end-column="52" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/promesas.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tiempo.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ejemplo/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="2" lean-forward="true" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
+            <state relative-caret-position="204">
+              <caret line="12" column="8" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="12" selection-end-column="8" />
+              <folding>
+                <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ejemplo/package.json">
+        <entry file="file://$PROJECT_DIR$/server/hojas/hoja2.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/calcu.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+            <state relative-caret-position="409">
+              <caret line="53" column="33" selection-start-line="53" selection-start-column="33" selection-end-line="53" selection-end-column="33" />
+              <folding>
+                <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -91,6 +78,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -111,14 +99,16 @@
         <option value="$PROJECT_DIR$/app.js" />
         <option value="$PROJECT_DIR$/ejemplo/package.json" />
         <option value="$PROJECT_DIR$/ejemplo/index.js" />
+        <option value="$PROJECT_DIR$/server/holaMundo.html" />
+        <option value="$PROJECT_DIR$/server/saludo.html" />
+        <option value="$PROJECT_DIR$/server/hojas/1.hoja1.html" />
+        <option value="$PROJECT_DIR$/server/hojas/hoja2.html" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="891" />
-    <option name="y" value="23" />
-    <option name="width" value="1157" />
-    <option name="height" value="1049" />
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="2560" />
+    <option name="height" value="1440" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -136,7 +126,19 @@
             <path>
               <item name="web" type="b2602c69:ProjectViewProjectNode" />
               <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="ejemplo" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="hojas" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="imagenes" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -145,6 +147,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -159,6 +162,14 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/server/imagenes" />
+      <recent name="$PROJECT_DIR$/server/hojas" />
+      <recent name="$PROJECT_DIR$/clases" />
+      <recent name="$PROJECT_DIR$/taller" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -171,29 +182,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.index.js">
-    <configuration name="app.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="app.js" working-dir="$PROJECT_DIR$">
+  <component name="RunManager" selected="JavaScript Debug.holaMundo.html">
+    <configuration name="holaMundo.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/web/server/hojas/holaMundo.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="calcu.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/calcu.js" working-dir="$PROJECT_DIR$">
+    <configuration name="Taller_Pérez_José.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="Taller_Pérez_José.js" working-dir="$PROJECT_DIR$/taller">
       <method v="2" />
     </configuration>
-    <configuration name="callback2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="callback2.js" working-dir="$PROJECT_DIR$">
+    <configuration name="app.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/clases/app.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="calcu.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/clases/calcu.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <configuration name="index.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="index.js" working-dir="$PROJECT_DIR$/ejemplo">
       <method v="2" />
     </configuration>
-    <configuration name="promesas.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="promesas.js" working-dir="$PROJECT_DIR$">
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.holaMundo.html" />
+        <item itemvalue="Node.js.Taller_Pérez_José.js" />
         <item itemvalue="Node.js.index.js" />
         <item itemvalue="Node.js.app.js" />
         <item itemvalue="Node.js.calcu.js" />
-        <item itemvalue="Node.js.promesas.js" />
-        <item itemvalue="Node.js.callback2.js" />
       </list>
     </recent_temporary>
   </component>
@@ -209,7 +220,9 @@
       <updated>1555939860175</updated>
       <workItem from="1555939875494" duration="5524000" />
       <workItem from="1556114937112" duration="5777000" />
-      <workItem from="1556548164565" duration="4319000" />
+      <workItem from="1556548164565" duration="4435000" />
+      <workItem from="1557324650420" duration="6526000" />
+      <workItem from="1557757038058" duration="5525000" />
     </task>
     <task id="LOCAL-00001" summary="callbacks, promesa no implementada">
       <created>1555948261859</created>
@@ -225,31 +238,38 @@
       <option name="project" value="LOCAL" />
       <updated>1556121441348</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="module export, require">
+      <created>1556553115321</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1556553115321</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15620000" />
+    <option name="totallyTimeSpent" value="27787000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="891" y="23" width="1157" height="1049" extended-state="1" />
+    <frame x="0" y="0" width="2560" height="1440" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24119718" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49932706" visible="true" weight="0.107916504" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Inspection Results" weight="0.32994455" />
+      <window_info active="true" id="Favorites" order="2" sideWeight="0.50067294" side_tool="true" visible="true" weight="0.107916504" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329927" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.36677116" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.5245559" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3291536" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.45766422" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection Results" order="11" weight="0.32994455" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -261,58 +281,52 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="callbacks, promesa no implementada" />
     <MESSAGE value="promesas" />
-    <option name="LAST_COMMIT_MESSAGE" value="promesas" />
+    <MESSAGE value="module export, require" />
+    <option name="LAST_COMMIT_MESSAGE" value="module export, require" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/callback.js">
+    <entry file="file://$PROJECT_DIR$/clases/callback.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="39" lean-forward="true" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/declaraciones.js">
+    <entry file="file://$PROJECT_DIR$/clases/declaraciones.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="418">
           <caret line="25" column="30" lean-forward="true" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/arreglos.js">
+    <entry file="file://$PROJECT_DIR$/clases/arreglos.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/archivo">
+    <entry file="file://$PROJECT_DIR$/clases/archivo">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/callback2.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1275">
-          <caret line="75" column="52" selection-start-line="75" selection-start-column="52" selection-end-line="75" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/funciones.js">
+    <entry file="file://$PROJECT_DIR$/clases/funciones.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/promesas.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/archivo.txt">
+    <entry file="file://$PROJECT_DIR$/clases/archivo.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="6" selection-start-column="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ejemplo/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
@@ -323,31 +337,87 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tiempo.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/calcu.js">
+    <entry file="file://$PROJECT_DIR$/clases/calcu.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ejemplo/package.json">
+    <entry file="file://$PROJECT_DIR$/clases/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        <state relative-caret-position="85">
+          <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clases/tiempo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clases/promesas.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clases/callback2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="862">
+          <caret line="75" column="52" selection-start-line="75" selection-start-column="52" selection-end-line="75" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taller/Taller_Pérez_José.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="154" column="34" lean-forward="true" selection-start-line="154" selection-start-column="34" selection-end-line="154" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taller/people.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="26" lean-forward="true" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/hojas/saludo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" selection-start-column="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/hojas/holaMundo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/hojas/1.hoja1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="8" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="12" selection-end-column="8" />
+          <folding>
+            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/hojas/hoja2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="409">
+          <caret line="53" column="33" selection-start-line="53" selection-start-column="33" selection-end-line="53" selection-end-column="33" />
+          <folding>
+            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
