@@ -1,0 +1,60 @@
+
+h1{
+    font-family: AppleGothic;
+    color:deepskyblue;
+}
+
+h2 {
+    font-family: AppleGothic;
+    color: lightskyblue;
+}
+
+h3 {
+    font-family: AppleGothic;
+    color: whitesmoke;
+}
+
+h4 {
+    font-family: AppleGothic;
+    color: whitesmoke;
+}
+
+
+#cabecera {
+    background: black ;
+    text-align: center;
+}
+
+#fin {
+    background: black;
+    color: green;
+}
+.resaltado{
+    background: lightskyblue;
+    color: black;
+
+}
+
+.justificado {
+    text-align: justify;
+   color: deepskyblue;
+}
+td /* Todas las celdas de la tabla... */
+{
+    border: 1px solid black; /* tendrá un borde de 1 px */
+}
+table{
+    background-color: lightskyblue;
+    text-align: center;
+    border-color: black;
+
+}
+blockquote{
+    margin:25px ;
+    border-style: solid;
+    border-color: black;
+    color:green;
+}
+body{
+    background-image: url("https://cdn.imgximg.com/2016/05/25/Doom2016448b7.jpg");
+}
