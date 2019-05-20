@@ -5,9 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6625138e-867b-4d47-864e-9e8b29b84140" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/server/estilos/estilo.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/hojas/hojavida2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/hojas/mapa.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/hojas/tienda.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/imagenes/chicago.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/imagenes/doomguy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/imagenes/la.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/imagenes/lovecraft.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/imagenes/mapaec.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/imagenes/ny.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/js/jquery-3.4.1.min.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/hojas/hojavida2.html" beforeDir="false" afterPath="$PROJECT_DIR$/server/hojas/hojavida2.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -23,48 +31,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/server/hojas/1.hoja1.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="8" selection-start-line="7" selection-start-column="1" selection-end-line="12" selection-end-column="8" />
-              <folding>
-                <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/server/hojas/hoja2.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="543">
-              <caret line="80" column="211" selection-start-line="80" selection-start-column="211" selection-end-line="80" selection-end-column="224" />
-              <folding>
-                <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/server/hojas/tienda.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/server/hojas/hojavida2.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="27" column="211" selection-start-line="27" selection-start-column="211" selection-end-line="27" selection-end-column="211" />
+            <state relative-caret-position="425">
+              <caret line="25" column="127" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="127" />
               <folding>
                 <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/server/estilos/estilo.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="32" column="14" lean-forward="true" selection-start-line="32" selection-start-column="14" selection-end-line="32" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -78,6 +61,12 @@
         <option value="HTML File" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>d-block</find>
+      <find>d-block</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -102,18 +91,23 @@
         <option value="$PROJECT_DIR$/server/hojas/hoja2.html" />
         <option value="$PROJECT_DIR$/server/estilos/estilo.css" />
         <option value="$PROJECT_DIR$/server/hojas/hojavida2.html" />
+        <option value="$PROJECT_DIR$/server/hojas/mapa.html" />
+        <option value="$PROJECT_DIR$/server/hojas/tienda.html" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="2560" />
-    <option name="height" value="1440" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1357" />
+    <option name="y" value="84" />
+    <option name="width" value="1131" />
+    <option name="height" value="1337" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -130,25 +124,17 @@
               <item name="web" type="b2602c69:ProjectViewProjectNode" />
               <item name="web" type="462c0819:PsiDirectoryNode" />
               <item name="server" type="462c0819:PsiDirectoryNode" />
-              <item name="estilos" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="web" type="b2602c69:ProjectViewProjectNode" />
               <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="server" type="462c0819:PsiDirectoryNode" />
-              <item name="hojas" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="web" type="b2602c69:ProjectViewProjectNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="server" type="462c0819:PsiDirectoryNode" />
-              <item name="imagenes" type="462c0819:PsiDirectoryNode" />
+              <item name="taller" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -171,6 +157,7 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/server/imagenes" />
       <recent name="$PROJECT_DIR$/server/hojas" />
+      <recent name="$PROJECT_DIR$/server/js" />
       <recent name="$PROJECT_DIR$/clases" />
       <recent name="$PROJECT_DIR$/taller" />
     </key>
@@ -228,7 +215,8 @@
       <workItem from="1556548164565" duration="4435000" />
       <workItem from="1557324650420" duration="6526000" />
       <workItem from="1557757038058" duration="5688000" />
-      <workItem from="1557928996446" duration="5696000" />
+      <workItem from="1557928996446" duration="5859000" />
+      <workItem from="1558361963641" duration="4795000" />
     </task>
     <task id="LOCAL-00001" summary="callbacks, promesa no implementada">
       <created>1555948261859</created>
@@ -258,19 +246,26 @@
       <option name="project" value="LOCAL" />
       <updated>1557763341550</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="css">
+      <created>1557935923306</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1557935923306</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33646000" />
+    <option name="totallyTimeSpent" value="38604000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="2560" height="1440" extended-state="0" />
+    <frame x="1405" y="83" width="1131" height="1337" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49798116" visible="true" weight="0.107916504" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49838188" visible="true" weight="0.24684684" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" sideWeight="0.50201887" side_tool="true" visible="true" weight="0.107916504" />
+      <window_info id="Favorites" order="2" sideWeight="0.50161815" side_tool="true" weight="0.107916504" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329927" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.5245559" />
@@ -280,7 +275,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.45766422" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.49156627" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Inspection Results" order="11" weight="0.32994455" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -296,7 +291,8 @@
     <MESSAGE value="promesas" />
     <MESSAGE value="module export, require" />
     <MESSAGE value="ul, ol, div...." />
-    <option name="LAST_COMMIT_MESSAGE" value="ul, ol, div...." />
+    <MESSAGE value="css" />
+    <option name="LAST_COMMIT_MESSAGE" value="css" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/clases/callback.js">
@@ -426,8 +422,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/server/hojas/hoja2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="543">
-          <caret line="80" column="211" selection-start-line="80" selection-start-column="211" selection-end-line="80" selection-end-column="224" />
+        <state relative-caret-position="-1">
+          <caret line="48" column="23" selection-start-line="48" selection-start-column="23" selection-end-line="48" selection-end-column="23" />
           <folding>
             <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -435,20 +431,41 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/server/hojas/mapa.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/server/estilos/estilo.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="32" column="14" lean-forward="true" selection-start-line="32" selection-start-column="14" selection-end-line="32" selection-end-column="14" />
+        <state relative-caret-position="64">
+          <caret line="32" column="14" selection-start-line="32" selection-start-column="14" selection-end-line="32" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/server/hojas/hojavida2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="211" selection-start-line="27" selection-start-column="211" selection-end-line="27" selection-end-column="211" />
+        <state relative-caret-position="425">
+          <caret line="25" column="127" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="127" />
           <folding>
             <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5558">
+          <caret line="6736" column="25" selection-start-line="6736" selection-start-column="25" selection-end-line="6736" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/hojas/tienda.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
         </state>
       </provider>
     </entry>
