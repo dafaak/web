@@ -130,7 +130,7 @@ promesaLectura
         for (let i = 0; i < abc.length; i++) {
             jsonData.some(per => {
                 if (per.name.startsWith(abc[i])) {
-                    abcRes[i] = '' + abc[i] + ':' + true;
+                    abcRes[i] = '{ '+ abc[i] + ':' + ' true }';
 
                 }
 
