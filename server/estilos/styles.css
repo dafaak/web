@@ -1,0 +1,18 @@
+header{
+    background: dodgerblue;
+    color: white;
+}
+.color2{
+    background: mediumpurple;
+    color: white;
+}
+menu{
+    background: forestgreen;
+    color: white;
+}
+
+footer{
+    background: dodgerblue;
+    color: white;
+    text-align: center;
+}

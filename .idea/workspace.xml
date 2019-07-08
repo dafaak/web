@@ -4,13 +4,52 @@
     <option name="SCOPE_TYPE" value="10" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6625138e-867b-4d47-864e-9e8b29b84140" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/server/estilos/teamrocketstyles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/hojas/inicio.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/imagenes/litleo.png" afterDir="false" />
+    <list default="true" id="6625138e-867b-4d47-864e-9e8b29b84140" name="Default Changelist" comment="bootstrap, jquery">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Examen/Pérez_José.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/movie.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/app/libreria/src/Clientes/cliente.controller.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/app/libreria/src/Clientes/cliente.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/app/libreria/src/Clientes/cliente.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/app/libreria/src/Clientes/interfaces/cliente.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/app/libreria/src/contactos/contacto.controller.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/app/libreria/src/contactos/contacto.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/app/libreria/src/contactos/contacto.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/app/libreria/src/contactos/interfaces/contacto.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/app/libreria/src/home/home.controller.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/app/libreria/src/home/home.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/app/libreria/src/libro/interfaces/libro.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/app/libreria/src/libro/libro.controller.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/app/libreria/src/libro/libro.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/app/libreria/src/libro/libro.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/app/libreria/src/proveedor/interfaces/proveedor.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/app/libreria/src/proveedor/proveedor.controller.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/app/libreria/src/proveedor/proveedor.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/app/libreria/src/proveedor/proveedor.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/app/libreria/views/about.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/app/libreria/views/cliente/crear-cliente.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/app/libreria/views/cliente/editar-cliente.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/app/libreria/views/cliente/listar-cliente.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/app/libreria/views/contacto/listar-contacto.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/app/libreria/views/home.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/app/libreria/views/libro/crear-libro.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/app/libreria/views/libro/editar-libro.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/app/libreria/views/libro/listar-libro.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/app/libreria/views/proveedor/crear-proveedor.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/app/libreria/views/proveedor/editar-proveedor.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/app/libreria/views/proveedor/listar-proveedor.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/app/pokemon/src/pokemon/pokemon.controller.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/app/pokemon/src/pokemon/pokemon.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/app/pokemon/src/pokemon/pokemon.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/app/pokemon/views/pokemon/crear-pokemon.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/app/pokemon/views/pokemon/listar-pokemon.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/estilos/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/hojas/formulariobasico.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/hojas/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/hojas/tablas.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/imagen/productos1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/hojas/1.hoja1.html" beforeDir="false" afterPath="$PROJECT_DIR$/server/hojas/1.hoja1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/taller/Taller_Pérez_José.js" beforeDir="false" afterPath="$PROJECT_DIR$/taller/Taller_Pérez_José.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -25,105 +64,107 @@
     <favorites_list name="web" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/server/hojas/tienda.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="4" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="71" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/server/hojas/inicio.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="831">
-              <caret line="97" column="38" selection-start-line="97" selection-start-column="38" selection-end-line="97" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/server/hojas/1.hoja1.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="25" lean-forward="true" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
-              <folding>
-                <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/server/estilos/teamrocketstyles.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="CSS File" />
         <option value="JavaScript File" />
         <option value="HTML File" />
-        <option value="CSS File" />
+        <option value="TypeScript File" />
       </list>
     </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
       <find>d-block</find>
-      <find>d-block</find>
+      <find>female</find>
+      <find>rec</find>
+      <find>actu</find>
+      <find>hi</find>
+      <find>edit</find>
+      <find>buscar</find>
+      <find>cliente</find>
+      <find>arr</find>
+      <find>arre</find>
     </findStrings>
+    <dirStrings>
+      <dir>C:\Users\israe\Documents\GitHub\web\server\app\pokemon</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/server/app/libreria" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/callback.js" />
-        <option value="$PROJECT_DIR$/archivo" />
-        <option value="$PROJECT_DIR$/callback2.js" />
-        <option value="$PROJECT_DIR$/promesas.js" />
-        <option value="$PROJECT_DIR$/archivo.txt" />
-        <option value="$PROJECT_DIR$/tiempo.js" />
-        <option value="$PROJECT_DIR$/sumaDosNum.js" />
-        <option value="$PROJECT_DIR$/calcu.js" />
-        <option value="$PROJECT_DIR$/app.js" />
-        <option value="$PROJECT_DIR$/ejemplo/package.json" />
-        <option value="$PROJECT_DIR$/ejemplo/index.js" />
-        <option value="$PROJECT_DIR$/server/holaMundo.html" />
-        <option value="$PROJECT_DIR$/server/saludo.html" />
-        <option value="$PROJECT_DIR$/server/hojas/hoja2.html" />
-        <option value="$PROJECT_DIR$/server/estilos/estilo.css" />
-        <option value="$PROJECT_DIR$/server/hojas/hojavida2.html" />
-        <option value="$PROJECT_DIR$/server/hojas/mapa.html" />
-        <option value="$PROJECT_DIR$/server/hojas/tienda.html" />
-        <option value="$PROJECT_DIR$/taller/Taller_Pérez_José.js" />
-        <option value="$PROJECT_DIR$/server/estilos/teamrocketstyles.css" />
-        <option value="$PROJECT_DIR$/server/hojas/1.hoja1.html" />
-        <option value="$PROJECT_DIR$/server/hojas/inicio.html" />
+        <option value="$PROJECT_DIR$/server/app/pokemon/src/app.module.ts" />
+        <option value="$PROJECT_DIR$/server/app/pokemon/src/pokemon/pokemon.module.ts" />
+        <option value="$USER_HOME$/Downloads/lista-libros.ejs" />
+        <option value="$USER_HOME$/Downloads/main.ts" />
+        <option value="$USER_HOME$/Downloads/crear-libro.ejs" />
+        <option value="$PROJECT_DIR$/server/app/pokemon/views/pokemon/crear-pokemon.ejs" />
+        <option value="$PROJECT_DIR$/server/app/pokemon/views/pokemon/editar-pokemon.ejs" />
+        <option value="$USER_HOME$/Downloads/libros.controller.ts" />
+        <option value="$PROJECT_DIR$/server/app/pokemon/src/pokemon/interfaces/pokemon.ts" />
+        <option value="$PROJECT_DIR$/server/app/pokemon/src/pokemon/pokemon.service.ts" />
+        <option value="$PROJECT_DIR$/server/app/pokemon/views/pokemon/listar-pokemon.ejs" />
+        <option value="$USER_HOME$/Downloads/main (1).ts" />
+        <option value="$PROJECT_DIR$/server/app/calculadora/src/main.ts" />
+        <option value="$PROJECT_DIR$/server/app/calculadora/src/app.controller.ts" />
+        <option value="$PROJECT_DIR$/server/app/pokemon/src/pokemon/pokemon.controller.ts" />
+        <option value="$PROJECT_DIR$/server/app/libreria/src/libro/libro.module.ts" />
+        <option value="$PROJECT_DIR$/server/app/libreria/src/main.ts" />
+        <option value="$PROJECT_DIR$/server/app/pokemon/src/main.ts" />
+        <option value="$PROJECT_DIR$/server/app/libreria/src/libro/interfaces/libro.ts" />
+        <option value="$PROJECT_DIR$/server/app/libreria/src/libro/libro.service.ts" />
+        <option value="$PROJECT_DIR$/server/app/libreria/src/Clientes/cliente.module.ts" />
+        <option value="$PROJECT_DIR$/server/app/libreria/src/Clientes/cliente.service.ts" />
+        <option value="$PROJECT_DIR$/server/app/libreria/src/proveedor/interfaces/cliente.ts" />
+        <option value="$PROJECT_DIR$/server/app/libreria/src/proveedor/interfaces/proveedor.ts" />
+        <option value="$PROJECT_DIR$/server/app/libreria/src/proveedor/proveedor.module.ts" />
+        <option value="$PROJECT_DIR$/server/app/libreria/src/proveedor/cliente.module.ts" />
+        <option value="$PROJECT_DIR$/server/app/libreria/src/proveedor/proveedor.service.ts" />
+        <option value="$PROJECT_DIR$/server/app/libreria/src/proveedor/proveedor.controller.ts" />
+        <option value="$PROJECT_DIR$/server/app/libreria/src/libro/libro.controller.ts" />
+        <option value="$PROJECT_DIR$/server/app/libreria/src/Clientes/cliente.controller.ts" />
+        <option value="$PROJECT_DIR$/server/app/libreria/src/home/home.service.ts" />
+        <option value="$PROJECT_DIR$/server/app/libreria/src/home/home.module.ts" />
+        <option value="$PROJECT_DIR$/server/app/libreria/src/home/home.controller.ts" />
+        <option value="$PROJECT_DIR$/server/app/libreria/src/Clientes/interfaces/cliente.ts" />
+        <option value="$PROJECT_DIR$/server/app/libreria/src/contactos/interfaces/contacto.ts" />
+        <option value="$PROJECT_DIR$/server/app/libreria/src/contactos/contacto.module.ts" />
+        <option value="$PROJECT_DIR$/server/app/libreria/src/contactos/contacto.service.ts" />
+        <option value="$PROJECT_DIR$/server/app/libreria/src/app.module.ts" />
+        <option value="$PROJECT_DIR$/server/app/libreria/src/contactos/contacto.controller.ts" />
+        <option value="$PROJECT_DIR$/server/app/libreria/views/libro/listar-libro.ejs" />
+        <option value="$PROJECT_DIR$/server/app/libreria/views/libro/editar-libro.ejs" />
+        <option value="$PROJECT_DIR$/server/app/libreria/views/libro/crear-libro.ejs" />
+        <option value="$PROJECT_DIR$/server/app/libreria/views/proveedor/editar-proveedor.ejs" />
+        <option value="$PROJECT_DIR$/server/app/libreria/views/proveedor/crear-proveedor.ejs" />
+        <option value="$PROJECT_DIR$/server/app/libreria/views/contacto/listar-contacto.ejs" />
+        <option value="$PROJECT_DIR$/server/app/libreria/views/cliente/listar-cliente.ejs" />
+        <option value="$PROJECT_DIR$/server/app/libreria/views/cliente/editar-cliente.ejs" />
+        <option value="$PROJECT_DIR$/server/app/libreria/views/cliente/crear-cliente.ejs" />
+        <option value="$PROJECT_DIR$/server/app/libreria/views/home.ejs" />
+        <option value="$PROJECT_DIR$/server/app/libreria/views/about.ejs" />
+        <option value="$PROJECT_DIR$/server/app/libreria/views/proveedor/listar-proveedor.ejs" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="y" value="23" />
-    <option name="width" value="2560" />
-    <option name="height" value="1337" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="444" />
+    <option name="y" value="13" />
+    <option name="width" value="763" />
+    <option name="height" value="768" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -140,29 +181,13 @@
               <item name="web" type="b2602c69:ProjectViewProjectNode" />
               <item name="web" type="462c0819:PsiDirectoryNode" />
               <item name="server" type="462c0819:PsiDirectoryNode" />
-              <item name="estilos" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="web" type="b2602c69:ProjectViewProjectNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="server" type="462c0819:PsiDirectoryNode" />
-              <item name="hojas" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="web" type="b2602c69:ProjectViewProjectNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="server" type="462c0819:PsiDirectoryNode" />
-              <item name="imagenes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="web" type="b2602c69:ProjectViewProjectNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="taller" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -181,14 +206,23 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="ts.external.directory.path" value="C:\Users\israe\Documents\GitHub\web\server\app\libreria\node_modules\typescript\lib" />
+    <property name="ts.rename.search.for.js.occurrences" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/server/imagenes" />
-      <recent name="$PROJECT_DIR$/server/hojas" />
-      <recent name="$PROJECT_DIR$/server/js" />
-      <recent name="$PROJECT_DIR$/clases" />
-      <recent name="$PROJECT_DIR$/taller" />
+      <recent name="C:\Users\israe\Documents\GitHub\web\server\app\libreria\src\contactos" />
+      <recent name="C:\Users\israe\Documents\GitHub\web\server\app\libreria\src\proveedor" />
+      <recent name="C:\Users\israe\Documents\GitHub\web\server\app\calculadora\test" />
+      <recent name="C:\Users\israe\Documents\GitHub\web\server\hojas" />
+      <recent name="C:\Users\israe\Documents\GitHub\web" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\israe\Documents\GitHub\web\server\app\libreria\src\contactos\interfaces" />
+      <recent name="C:\Users\israe\Documents\GitHub\web\server\app\libreria\src\proveedor\interfaces" />
+      <recent name="C:\Users\israe\Documents\GitHub\web\server\app\libreria\views\cliente" />
+      <recent name="C:\Users\israe\Documents\GitHub\web\server\app\libreria\views\libro" />
+      <recent name="C:\Users\israe\Documents\GitHub\web\server\app\pokemon" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -203,11 +237,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.Taller_Pérez_José.js">
-    <configuration name="holaMundo.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/web/server/hojas/holaMundo.html" useBuiltInWebServerPort="true">
+  <component name="RunManager" selected="Node.js.Pérez_José.js">
+    <configuration name="holaMundo.html" type="JavascriptDebugType" nameIsGenerated="true" uri="http://localhost:63342/web/server/hojas/holaMundo.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="Taller_Pérez_José.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="Taller_Pérez_José.js" working-dir="$PROJECT_DIR$/taller">
+    <configuration name="Pérez_José.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Examen/Pérez_José.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="Taller_Pérez_José.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="Taller_Pérez_José.js" working-dir="$PROJECT_DIR$/taller">
       <method v="2" />
     </configuration>
     <configuration name="app.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/clases/app.js" working-dir="$PROJECT_DIR$">
@@ -221,8 +258,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.Taller_Pérez_José.js" />
-        <item itemvalue="JavaScript Debug.holaMundo.html" />
+        <item itemvalue="Node.js.Pérez_José.js" />
         <item itemvalue="Node.js.index.js" />
         <item itemvalue="Node.js.app.js" />
         <item itemvalue="Node.js.calcu.js" />
@@ -247,6 +283,32 @@
       <workItem from="1557928996446" duration="5859000" />
       <workItem from="1558361963641" duration="5087000" />
       <workItem from="1558533878664" duration="6267000" />
+      <workItem from="1558542195641" duration="623000" />
+      <workItem from="1558967479074" duration="2476000" />
+      <workItem from="1558969982034" duration="3463000" />
+      <workItem from="1558975981679" duration="731000" />
+      <workItem from="1559139852350" duration="280000" />
+      <workItem from="1559745366045" duration="4273000" />
+      <workItem from="1560176936410" duration="5768000" />
+      <workItem from="1560348160245" duration="7780000" />
+      <workItem from="1560367542003" duration="109000" />
+      <workItem from="1560380809167" duration="137000" />
+      <workItem from="1560393358999" duration="598000" />
+      <workItem from="1560556342737" duration="596000" />
+      <workItem from="1560953321546" duration="9365000" />
+      <workItem from="1561385453585" duration="5549000" />
+      <workItem from="1561477861127" duration="139000" />
+      <workItem from="1561511522013" duration="1291000" />
+      <workItem from="1561554913782" duration="9857000" />
+      <workItem from="1561576938880" duration="68000" />
+      <workItem from="1561689615918" duration="640000" />
+      <workItem from="1561987721689" duration="9103000" />
+      <workItem from="1562036127786" duration="13000" />
+      <workItem from="1562163053348" duration="10995000" />
+      <workItem from="1562178287581" duration="12832000" />
+      <workItem from="1562205578141" duration="8258000" />
+      <workItem from="1562243722982" duration="9367000" />
+      <workItem from="1562263454452" duration="8334000" />
     </task>
     <task id="LOCAL-00001" summary="callbacks, promesa no implementada">
       <created>1555948261859</created>
@@ -294,27 +356,36 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45163000" />
+    <option name="totallyTimeSpent" value="157808000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="2560" height="1337" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49838188" visible="true" weight="0.107916504" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49838188" visible="true" weight="0.1564805" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" sideWeight="0.50161815" side_tool="true" weight="0.107916504" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.329927" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3218978" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.31096563" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.42047244" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3289689" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.22811244" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3289689" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.20043337" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Inspection Results" order="11" weight="0.32994455" />
+      <window_info anchor="bottom" id="TypeScript" order="12" weight="0.3289689" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -322,6 +393,9 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.ts" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="callbacks, promesa no implementada" />
@@ -333,191 +407,403 @@
     <option name="LAST_COMMIT_MESSAGE" value="bootstrap, jquery" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/clases/callback.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="39" lean-forward="true" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/clases/declaraciones.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="25" column="30" lean-forward="true" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/clases/arreglos.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/clases/archivo">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/clases/funciones.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/clases/archivo.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="6" selection-start-column="6" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ejemplo/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ejemplo/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="2" lean-forward="true" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/clases/calcu.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/clases/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/clases/tiempo.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/clases/promesas.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/clases/callback2.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="862">
-          <caret line="75" column="52" selection-start-line="75" selection-start-column="52" selection-end-line="75" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/taller/people.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="26" lean-forward="true" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/hojas/saludo.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="6" selection-start-column="6" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/hojas/holaMundo.html">
+    <entry file="file://$PROJECT_DIR$/server/app/pokemon/src/main.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
-          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/hojas/hoja2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1">
-          <caret line="48" column="23" selection-start-line="48" selection-start-column="23" selection-end-line="48" selection-end-column="23" />
+          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
           <folding>
-            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#0#41#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/server/hojas/mapa.html">
+    <entry file="file://$PROJECT_DIR$/server/app/pokemon/src/pokemon/pokemon.module.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
-          <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/estilos/estilo.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="32" column="14" selection-start-line="32" selection-start-column="14" selection-end-line="32" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/css/bootstrap.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-5558">
-          <caret line="6736" column="25" selection-start-line="6736" selection-start-column="25" selection-end-line="6736" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/hojas/hojavida2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="127" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="127" />
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
           <folding>
-            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#0#38#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/taller/Taller_Pérez_José.js">
+    <entry file="file://$PROJECT_DIR$/server/app/libreria/src/app.controller.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1806">
-          <caret line="201" column="4" selection-start-line="201" selection-start-column="4" selection-end-line="201" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/hojas/tienda.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="4" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="71" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/estilos/teamrocketstyles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/hojas/1.hoja1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="25" lean-forward="true" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+        <state>
           <folding>
-            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#0#49#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/server/hojas/inicio.html">
+    <entry file="file://$PROJECT_DIR$/server/app/pokemon/src/app.module.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="831">
-          <caret line="97" column="38" selection-start-line="97" selection-start-column="38" selection-end-line="97" selection-end-column="38" />
+        <state relative-caret-position="102">
+          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/app/pokemon/src/pokemon/interfaces/pokemon.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/app/pokemon/src/pokemon/pokemon.controller.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="48" column="4" lean-forward="true" selection-start-line="48" selection-start-column="4" selection-end-line="55" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#70#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/app/pokemon/src/pokemon/pokemon.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+          <folding>
+            <element signature="e#0#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/libros.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/app/pokemon/views/pokemon/editar-pokemon.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-130">
+          <caret line="10" column="8" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/editar-libro (1).ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="46" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/hojas/formulariobasico.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="12" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="94" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/libros.controller (2).ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="88" column="3" lean-forward="true" selection-start-line="88" selection-start-column="3" selection-end-line="94" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#75#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/libros.service (1).ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="59" column="48" lean-forward="true" selection-start-line="59" selection-start-column="48" selection-end-line="59" selection-end-column="48" />
+          <folding>
+            <element signature="e#0#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/hojas/tablas.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="14" column="40" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/app/libreria/src/libro/interfaces/libro.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/app/libreria/src/proveedor/cliente.controller.ts" />
+    <entry file="file://$PROJECT_DIR$/server/app/libreria/src/proveedor/cliente.service.ts" />
+    <entry file="file://$PROJECT_DIR$/server/app/libreria/src/proveedor/interfaces/cliente.ts" />
+    <entry file="file://$PROJECT_DIR$/server/app/libreria/src/proveedor/interfaces/proveedor.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/app/libreria/src/proveedor/cliente.module.ts" />
+    <entry file="file://$PROJECT_DIR$/server/app/libreria/src/proveedor/proveedor.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/app/libreria/src/libro/libro.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/app/libreria/src/proveedor/proveedor.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="87" column="24" selection-start-line="87" selection-start-column="17" selection-end-line="87" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/app/libreria/src/libro/libro.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="105" column="9" lean-forward="true" selection-start-line="105" selection-start-column="9" selection-end-line="105" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/app/libreria/src/home/home.service.ts" />
+    <entry file="file://$PROJECT_DIR$/server/app/libreria/src/main.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/app/libreria/src/home/home.controller.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="16" column="17" lean-forward="true" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/app/libreria/src/home/home.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/app/libreria/src/Clientes/interfaces/cliente.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/app/libreria/src/Clientes/cliente.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="20" selection-end-line="17" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/app/libreria/src/Clientes/cliente.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="25" column="33" selection-end-line="100" />
+          <folding>
+            <element signature="e#0#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/app/libreria/src/contactos/interfaces/contacto.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/app/libreria/src/contactos/contacto.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/app/libreria/src/Clientes/cliente.controller.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="32" selection-end-line="97" />
+          <folding>
+            <element signature="e#0#70#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/app/libreria/src/contactos/contacto.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="94" lean-forward="true" selection-start-line="94" selection-end-line="94" />
+          <folding>
+            <element signature="e#0#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/app/libreria/src/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="81" lean-forward="true" selection-start-line="10" selection-start-column="81" selection-end-line="10" selection-end-column="81" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/app/libreria/src/contactos/contacto.controller.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
+          <folding>
+            <element signature="e#0#70#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/app/libreria/src/libro/libro.controller.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="94" column="9" selection-start-line="94" selection-start-column="9" selection-end-line="94" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#70#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/app/libreria/src/proveedor/proveedor.controller.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="526">
+          <caret line="76" column="48" lean-forward="true" selection-start-line="76" selection-start-column="48" selection-end-line="76" selection-end-column="48" />
+          <folding>
+            <element signature="e#0#70#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/app/libreria/views/home.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="2" lean-forward="true" selection-start-line="5" selection-start-column="2" selection-end-line="13" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/app/libreria/views/proveedor/listar-proveedor.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="45" selection-start-line="13" selection-start-column="45" selection-end-line="13" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/app/libreria/views/about.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="45" selection-start-line="13" selection-start-column="45" selection-end-line="13" selection-end-column="45" />
+          <folding>
+            <element signature="e#3241#3247#1#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/app/libreria/views/proveedor/editar-proveedor.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="833">
+          <caret line="49" column="10" lean-forward="true" selection-start-line="23" selection-start-column="3" selection-end-line="49" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/app/libreria/views/cliente/crear-cliente.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="969">
+          <caret line="57" column="10" selection-start-line="57" selection-start-column="10" selection-end-line="57" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/app/libreria/views/cliente/editar-cliente.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="48" column="10" lean-forward="true" selection-start-line="22" selection-start-column="3" selection-end-line="48" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/app/libreria/views/cliente/listar-cliente.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1037">
+          <caret line="61" column="10" lean-forward="true" selection-start-line="35" selection-start-column="3" selection-end-line="61" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/app/libreria/views/contacto/listar-contacto.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="36" column="3" lean-forward="true" selection-start-line="36" selection-start-column="3" selection-end-line="62" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/app/libreria/views/libro/crear-libro.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="13" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/app/libreria/views/libro/editar-libro.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="20" lean-forward="true" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/app/libreria/views/libro/listar-libro.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="986">
+          <caret line="58" column="10" lean-forward="true" selection-start-line="32" selection-start-column="4" selection-end-line="58" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/app/libreria/views/proveedor/crear-proveedor.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="45" selection-start-line="13" selection-start-column="45" selection-end-line="13" selection-end-column="45" />
         </state>
       </provider>
     </entry>
